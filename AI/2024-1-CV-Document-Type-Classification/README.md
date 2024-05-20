@@ -14,4 +14,6 @@
 
 <img width="1083" alt="image" src="https://github.com/junnei/archive/assets/41983244/85f63adf-c136-4b1d-942b-8b23dd19c3e0">
 
-> 팀원 개인 사정으로 다른 조와 달리 개인으로 참여해 전체 1위를 기록했습니다.
+> 팀원 개인 사정으로 다른 조와 달리 개인으로 참여했고, 전체 1위를 기록했습니다.
+
+- [[인사이트 공유 글 살펴보기]](https://www.notion.so/junnei/Data-Centric-Approach-23603262fd144ea983d858b57025abe7?pvs=4)
